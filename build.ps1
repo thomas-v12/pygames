@@ -1,0 +1,1 @@
+pyinstaller -y --add-data "C:/Users/Thomas/Qsync/Programmeren/pygames/images";"images/" --add-data "C:/Users/Thomas/AppData/Local/Programs/Python/Python37/Lib/site-packages/pgzero";"pgzero/" "C:/Users/Thomas/Qsync/Programmeren/pygames/fruit schieten.py"
